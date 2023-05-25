@@ -1,0 +1,7 @@
+{
+  "name": "estoqueApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
